@@ -1,0 +1,14 @@
+{
+  "name": "npm_twit_demo",
+  "version": "1.0.0",
+  "description": "tutorial twitter api with node",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Research",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
